@@ -1,0 +1,4 @@
+# Project exclude paths
+/bff-service/target/
+/orders-service/target/
+/users-service/target/
